@@ -1,9 +1,9 @@
-<div align="center">
+a<div align="center">
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=180&section=header&text=Hi,%20I'm%20Sheharyar%20👋&fontSize=40&fontColor=ffffff&animation=fadeIn&fontAlignY=38" width="100%"/>
 
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1000&color=36BCF7&center=true&vCenter=true&width=600&lines=Full-Stack+Web+Developer;TypeScript+%7C+React+%7C+Three.js;Building+fast%2C+beautiful+web+experiences" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1000&color=36BCF7&center=true&vCenter=true&width=600&lines=Full-Stack+Developer;TypeScript+%7C+React+%7C+Three.js;Python+%7C+FastAPI+%7C+AI;Kafka+%7C+Redis+%7C+Docker" alt="Typing SVG" />
 </a>
 
 <br/>
@@ -16,18 +16,42 @@
 
 ### 🚀 About Me
 
-- 💻 Full-stack developer focused on **modern, high-performance web apps**
+- 💻 Full-stack developer building **modern web apps** and **scalable Python/FastAPI backends**
+- 🤖 Building **AI-powered features** with LLMs, RAG and agents
+- ⚡ Event-driven systems with **Kafka**, caching with **Redis**, shipping with **Docker**
 - 🎨 I love crafting **premium UIs**: 3D scenes, smooth motion, glassmorphism
 - 🏢 Currently building products with **[Devstrix](https://github.com/devstrixdotcom)**
-- 🌱 Exploring **AI-powered apps** and creative 3D on the web
 - 📫 Open to collaborations and freelance work
 
 ---
 
 ### 🛠️ Tech Stack
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=ts,js,react,nextjs,vite,tailwind,threejs,nodejs,html,css,git,github,vscode,figma&perline=7" />
+**🎨 Frontend**
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=ts,js,react,nextjs,vite,tailwind,threejs,html,css" />
+</p>
+
+**⚙️ Backend**
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=py,fastapi,nodejs,postgres,mongodb,redis,kafka" />
+</p>
+
+**🤖 AI / ML**
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=pytorch" height="48" />
+  <img src="https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logoColor=white" height="48" />
+  <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white" height="48" />
+  <img src="https://img.shields.io/badge/Hugging%20Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black" height="48" />
+</p>
+
+**🐳 DevOps & Tools**
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=docker,linux,nginx,githubactions,git,github,vscode,figma" />
 </p>
 
 ---
