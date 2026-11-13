@@ -1,14 +1,10 @@
-a<div align="center">
+<div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=180&section=header&text=Hi,%20I'm%20Sheharyar%20👋&fontSize=40&fontColor=ffffff&animation=fadeIn&fontAlignY=38" width="100%"/>
-
-<a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1000&color=36BCF7&center=true&vCenter=true&width=600&lines=Full-Stack+Developer;TypeScript+%7C+React+%7C+Three.js;Python+%7C+FastAPI+%7C+AI;Kafka+%7C+Redis+%7C+Docker" alt="Typing SVG" />
-</a>
+<img src="./header.svg" width="100%" alt="Sheharyar - Full-Stack Developer"/>
 
 <br/>
 
-<img src="https://komarev.com/ghpvc/?username=Sheharyar11110&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" />
+<img src="https://komarev.com/ghpvc/?username=Sheharyar11110&label=Profile%20views&color=7c3aed&style=for-the-badge" alt="profile views" />
 
 </div>
 
@@ -91,4 +87,4 @@ a<div align="center">
   <a href="https://github.com/Sheharyar11110"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
 </p>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2c5364,50:203a43,100:0f2027&height=100&section=footer" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:7c3aed,50:0891b2,100:db2777&height=120&section=footer&animation=twinkling" width="100%"/>
